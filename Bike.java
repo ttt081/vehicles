@@ -13,4 +13,8 @@ public class Bike {
         System.out.println("This is green bike()");
         System.out.println(vc.drive() + " for bike obtained from Vehicles drive()");
     }
+    public void blackBike() {
+        System.out.println("This is black bike()");
+        System.out.println(vc.drive() + " for bike obtained from Vehicles drive()");
+    }
 }
